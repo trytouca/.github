@@ -1,7 +1,7 @@
 # Reporting Security Issues
 
-If you discover a security issue in any of the Weasel software components,
-please privately report it to us at <hello@getweasel.com> first.
+If you discover a security issue in any of the Touca software components,
+please privately report it to us at <hello@touca.io> first.
 
 This will allow us to assess the risk and make a fix available before we
 add it to our public issue tracker.
