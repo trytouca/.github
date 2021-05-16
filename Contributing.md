@@ -1,10 +1,10 @@
 # Contributing
 
 We appreciate all contributions and look forward to welcoming you to the
-group of Weasel developers!
-Project Weasel covers a relatively broad domain of languages and technologies
+group of Touca developers!
+Project Touca covers a relatively broad domain of languages and technologies
 so opportunities for contributions are abundant, regardless of your domain of
-experties. Plus, Weasel is very young and is missing numerous features and
+experties. Plus, Touca is very young and is missing numerous features and
 enhancements; So we promise you will easily find things that need improvement.
 
 Before you start, we ask that you carefully read this page to the end for a
@@ -32,7 +32,7 @@ are not supposed to be democratic.
 
 ## Code Review Process
 
-Any contribution to Project Weasel requires a code review by at least one
+Any contribution to Project Touca requires a code review by at least one
 of project maintainers. We use pull requests for this purpose.
 To facilitate this process and avoid any frustration, please follow the
 following tips:
@@ -43,7 +43,7 @@ following tips:
   ticket associated with your work.
 * Please consider squashing relevant commits into a single one.
 * Develop on feature branches specific to the ticket you are working on
-  (with the pattern `feature/WSL-1234`). When your work is ready to submit
+  (with the pattern `feature/t-1234`). When your work is ready to submit
   for code review, create a pull request to `development` branch.
 * Do not check in code unrelated to the ticket you are working on in its
   associated feature branch.

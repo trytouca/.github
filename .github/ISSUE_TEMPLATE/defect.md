@@ -10,7 +10,7 @@ Please provide a brief description of the issue.
 ## Environment
 
 Describe your environment including your **operation system**,
-**compiler version**, and the version of Weasel client library that
+**compiler version**, and the version of Touca client library that
 you are using.
 
 ## Steps To Reproduce
