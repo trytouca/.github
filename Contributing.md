@@ -37,13 +37,13 @@ of project maintainers. We use pull requests for this purpose.
 To facilitate this process and avoid any frustration, please follow the
 following tips:
 
-* Make sure your code conforms to our coding style guidelines.
-  Use `build.sh --lint` to automatically format your code changes.
-* Use descriptive commit messages. All commit messages must precede with the
-  ticket associated with your work.
-* Please consider squashing relevant commits into a single one.
-* Develop on feature branches specific to the ticket you are working on
-  (with the pattern `feature/t-1234`). When your work is ready to submit
-  for code review, create a pull request to `development` branch.
-* Do not check in code unrelated to the ticket you are working on in its
-  associated feature branch.
+*   Make sure your code conforms to our coding style guidelines.
+    Use `build.sh --lint` to automatically format your code changes.
+*   Use descriptive commit messages. All commit messages must precede with the
+    ticket associated with your work.
+*   Please consider squashing relevant commits into a single one.
+*   Develop on feature branches specific to the ticket you are working on
+    (with the pattern `feature/t-1234`). When your work is ready to submit
+    for code review, create a pull request to `development` branch.
+*   Do not check in code unrelated to the ticket you are working on in its
+    associated feature branch.
