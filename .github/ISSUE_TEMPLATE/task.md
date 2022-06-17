@@ -1,4 +1,4 @@
 ---
-name: Task
+name: 🏗 Task
 about: Reserved for active contributors
 ---
